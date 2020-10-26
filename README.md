@@ -1,2 +1,2 @@
 
-{"متن":"به سرور متصل شدید"}
+[{"اسم":"جاوا","درباره کد":"میتوانید شکل ضاحری باتون رو تقییر دهید فقط باید ایدی باتون را به GTA تقییر دهید","کد":"int[] colorsCRNHB \u003d { Color.parseColor(\"#37ff00\"), Color.parseColor(\"#37ff00\") }; android.graphics.drawable.GradientDrawable CRNHB \u003d new android.graphics.drawable.GradientDrawable(android.graphics.drawable.GradientDrawable.Orientation.TOP_BOTTOM, colorsCRNHB);\nCRNHB.setCornerRadii(new float[]{(int)0,(int)0,(int)360,(int)360,(int)0,(int)0,(int)360,(int)360});\nCRNHB.setStroke((int) 16, Color.parseColor(\"#ff1700\"));\ngta.setElevation((float) 5);\ngta.setBackground(CRNHB);\n//Paste this code in (add source directly block) asd block\n//Milz"}]
